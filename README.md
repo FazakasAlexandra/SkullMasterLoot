@@ -1,4 +1,4 @@
-# SkullMasterLoot
+# 💰☠️ SkullMasterLoot ☠️💰
 Addon for World of warcraft classic (client 1.4) 
 
 ### Instructions
